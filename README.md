@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1UpJlxgna-qHPkNOomXH0vPufvLQneH3a?usp=sh
 https://linear-regression-model-y4xx.onrender.com/docs
 
 ## 🎥 Video Demo
-https://youtu.be/LoQ7sLhO4jA
+https://youtu.be/QjDS4V2vuSI
 
 ## 📱 How to Run the Flutter App
 1. Make sure Flutter is installed on your machine
